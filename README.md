@@ -1,2 +1,2 @@
 # MY-PERSONALWEBSITE
-This is my personal, here you can know more about me 
+This is my personal website, here you can know more about me 
